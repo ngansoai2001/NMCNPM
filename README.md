@@ -24,10 +24,8 @@
 
 ---
 
-### 🧩 Công nghệ sử dụng
-- **Ngôn ngữ:** Python / Java / JavaScript  
-- **Framework:** Flask / React / Spring Boot  
-- **Cơ sở dữ liệu:** MySQL / Firebase  
+### 📘 Lab 1 – Khởi tạo dự án & Định nghĩa yêu cầu
+##🔹 Nội dung
 
 ---
 

@@ -5,20 +5,16 @@
 ## 👨‍🎓 Thông tin sinh viên
 - **Họ tên:** Đặng Ngân Soải  
 - **MSSV:** K23DTCN306
-- **Lớp:** D23TXCN06-k  
+- **Lớp:** D23TXCN06-K  
 - **Github Profile:** [github.com/ngansoai2001](https://github.com/ngansoai2001)  
 
 ---
 
-## 🏪 Đề tài: ỨNG DỤNG BÁN LẺ TẠP HÓA CÔNG NGHỆ 4.0  
-
-### 🎯 Mục tiêu
-Xây dựng một ứng dụng hỗ trợ quản lý bán hàng tạp hóa theo mô hình hiện đại, tích hợp quản lý kho, hóa đơn và khách hàng.  
-Ứng dụng tuân thủ quy trình phát triển phần mềm đã học, từ giai đoạn **phân tích yêu cầu → thiết kế → lập kế hoạch → triển khai → kiểm thử.**
+## :computer: Đề tài: ỨNG DỤNG BÁN LẺ TẠP HÓA CÔNG NGHỆ 4.0  
 
 ---
 
-## 📘 Lab 1 – Khởi tạo dự án & Định nghĩa yêu cầu
+## :book: Lab 1 – Khởi tạo dự án & Định nghĩa yêu cầu
 ### 🔹 Nội dung
 - Giới thiệu mô hình phát triển phần mềm (Waterfall, Incremental, Agile).  
 - Viết **Project Definition** và **Software Requirement Specification (SRS)**.
@@ -33,7 +29,7 @@ Xây dựng một ứng dụng hỗ trợ quản lý bán hàng tạp hóa theo 
 
 ---
 
-## 📗 Lab 2 – Phân tích & Mô hình hóa hệ thống
+## :book: Lab 2 – Phân tích & Mô hình hóa hệ thống
 ### 🔹 Nội dung
 - Thiết kế Use Case, Activity, Class, Sequence, ERD, DFD.  
 - Mô tả luồng sự kiện và hành vi của hệ thống.
@@ -51,7 +47,7 @@ Xây dựng một ứng dụng hỗ trợ quản lý bán hàng tạp hóa theo 
 
 ---
 
-## 📙 Lab 3 – Quản lý dự án & Quản lý cấu hình
+## :book: Lab 3 – Quản lý dự án & Quản lý cấu hình
 ### 🔹 Nội dung
 - Lập **Project Plan**, **WBS**, **Gantt Chart** bằng Jira/Confluence.  
 - Phân tích rủi ro (Risk Management).  
@@ -68,7 +64,7 @@ Xây dựng một ứng dụng hỗ trợ quản lý bán hàng tạp hóa theo 
 
 ---
 
-## 📒 Lab 4 – Thiết kế, Kiểm thử & Triển khai
+## :book: Lab 4 – Thiết kế, Kiểm thử & Triển khai
 ### 🔹 Nội dung
 - Thiết kế giao diện người dùng (UI) và cơ sở dữ liệu.  
 - Ứng dụng mô hình **MVC + SOA** trong phần demo.  

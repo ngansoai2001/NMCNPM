@@ -1,4 +1,4 @@
-introduce_software
+introduce_software/n
 🧠 NHẬP MÔN CÔNG NGHỆ PHẦN MỀM
 (Introduction to Software Engineering – PTIT)
 
@@ -6,7 +6,7 @@ introduce_software
 Họ tên: Đặng Ngân Soải
 MSSV: K23DTCN306
 Lớp: D23TXCN06-K
-Github Profile: 
+Github Profile: https://github.com/ngansoai2001/NMCNPM
 🏪 Đề tài: ỨNG DỤNG BÁN LẺ TẠP HÓA CÔNG NGHỆ 4.0
 🎯 Mục tiêu
 Xây dựng một ứng dụng hỗ trợ quản lý bán hàng tạp hóa theo mô hình hiện đại, tích hợp quản lý kho, hóa đơn và khách hàng.
